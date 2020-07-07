@@ -1,4 +1,4 @@
 def introduction(name, language)
-  name = "Dan"
+  name = "Josh"
   puts "Hi, my name is #{name}."
 end
